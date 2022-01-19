@@ -20,6 +20,7 @@ body{
     background-color: hsl(225, 100%, 94%);
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 
@@ -103,6 +104,10 @@ a.btn{
     box-shadow: 11px 15px 26px -6px rgba(0,0,0,0.47);
 -webkit-box-shadow: 11px 15px 26px -6px rgba(0,0,0,0.47);
 -moz-box-shadow: 11px 15px 26px -6px rgba(0,0,0,0.47);
+}
+
+.attribution{
+    margin-bottom: 2.5rem;
 }
 
 @media only screen and (max-width: 600px) {
