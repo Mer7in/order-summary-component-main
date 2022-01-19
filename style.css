@@ -61,7 +61,7 @@ body{
     max-width: 450px;
     min-width: none;
     padding: 2.5rem;
-    background-color: azure;
+    background-color: #FFF;
     border-radius: 0px 0px 25px 25px;
     text-align: center;
 }
@@ -75,7 +75,7 @@ p{
     display: flex;
     align-items: center;
     padding: 1rem 1.5rem;
-    background-color: hsl(225, 100%, 98%);
+    background-color: #FFF;
     border-radius: 15px;
     justify-content: space-between;
 }
