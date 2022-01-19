@@ -75,7 +75,7 @@ p{
     display: flex;
     align-items: center;
     padding: 1rem 1.5rem;
-    background-color: #FFF;
+    background-color: hsl(225, 100%, 98%);
     border-radius: 15px;
     justify-content: space-between;
 }
